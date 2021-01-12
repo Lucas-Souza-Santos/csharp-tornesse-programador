@@ -1,0 +1,16 @@
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.exe
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.deps.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.runtimeconfig.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\ref\Funcoes.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\bin\Debug\net5.0\Funcoes.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.AssemblyInfo.cs
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\ref\Funcoes.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\Funcoes\obj\Debug\net5.0\Funcoes.genruntimeconfig.cache

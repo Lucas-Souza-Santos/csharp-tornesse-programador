@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\Funcoes\\Funcoes.csproj",
+      "projectUniqueName": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\Funcoes.csproj",
       "projectName": "Funcoes",
-      "projectPath": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\Funcoes\\Funcoes.csproj",
+      "projectPath": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\Funcoes.csproj",
       "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\Funcoes\\obj\\",
+      "outputPath": "C:\\Users\\Notebook\\Documents\\GitHub\\csharp-tornesse-programador\\Funcoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",

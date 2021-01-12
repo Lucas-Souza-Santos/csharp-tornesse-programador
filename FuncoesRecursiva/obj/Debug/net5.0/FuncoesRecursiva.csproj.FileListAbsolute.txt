@@ -1,0 +1,16 @@
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.exe
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.deps.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.runtimeconfig.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\ref\FuncoesRecursiva.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\bin\Debug\net5.0\FuncoesRecursiva.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.AssemblyInfo.cs
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\ref\FuncoesRecursiva.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\FuncoesRecursiva\obj\Debug\net5.0\FuncoesRecursiva.genruntimeconfig.cache

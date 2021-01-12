@@ -1,0 +1,16 @@
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.csprojAssemblyReference.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.AssemblyInfoInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.AssemblyInfo.cs
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.exe
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.deps.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.runtimeconfig.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.runtimeconfig.dev.json
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ref\ArrayColecao.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\bin\Debug\net5.0\ArrayColecao.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ref\ArrayColecao.dll
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.pdb
+C:\Users\Notebook\Documents\GitHub\csharp-tornesse-programador\ArrayColecao\obj\Debug\net5.0\ArrayColecao.genruntimeconfig.cache

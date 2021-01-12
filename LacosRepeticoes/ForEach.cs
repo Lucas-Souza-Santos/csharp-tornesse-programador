@@ -1,6 +1,6 @@
 using System;
 
-class While
+class ForEach 
 {
     static void Main()
     {

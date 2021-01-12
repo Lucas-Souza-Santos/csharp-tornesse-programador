@@ -1,6 +1,6 @@
 using System;
 
-class While
+class For
 {
     static void Main()
     {

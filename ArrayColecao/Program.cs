@@ -35,6 +35,15 @@ namespace ArrayColecao
             {
                 Console.WriteLine(nome);
             }
+            if(c.Exists(e => e == "Maria"))
+            {
+                Console.WriteLine("Encontrei a Maria!");
+            }
+
+            int size_list = c.Count();
+
+            Console.WriteLine($"Tamanho da lista: {size_list}");
+
 
         }
     }
